@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes London bike sharing data to explore usage patterns, the impact of weather conditions, and seasonal trends using **Python** (Jupyter Notebook) and **Tableau**. It involves data exploration with Python to build an interactive dashboard with Tableau.
+This project analyzes London bike sharing data to explore usage patterns, the impact of weather conditions, and seasonal trends using **Python** (Jupyter Notebook) and **Tableau**. It involves data exploration with Python and the creation of an interactive dashboard with Tableau.
 
 ## Dataset
 
