@@ -49,7 +49,7 @@ This project analyzes London bike sharing data to explore usage patterns, the im
 
 ## Acknowledgments
 
-- This project was inspired by **Mo Chen**, a data analyst in the financial sector. His YouTube tutorial, ["Data Analyst Portfolio Project | Build an Awesome Tableau Dashboard Step by Step"](https://www.youtube.com/watch?v=nl9eZl1IOKI), guided me through the process of data visualization and dashboard creation in Tableau.
+- This project was inspired by **Mo Chen**, a data analyst in the financial sector. His YouTube tutorial, ["Data Analyst Portfolio Project | Build an Awesome Tableau Dashboard Step by Step"](https://www.youtube.com/watch?v=nl9eZl1IOKI), guided me through the process of data exploration and dashboard creation in Tableau.
 
 
 
