@@ -37,18 +37,13 @@ This project analyzes London bike sharing data to explore usage patterns, the im
  
 ## How to Use
 
-1. **Data Exploration with Jupyter Notebook:**
-   - Open `London_bikes.ipynb` in Jupyter Notebook.
-   - Run all cells to process the raw data (`london_merged.csv`).
-   - The cleaned data `london_bikes_final.xlsx` will be saved in the `data` folder.
-
-2. **Explore the Cleaned Data:**
+1. **Explore the Cleaned Data:**
    - Open `london_bikes_final.xlsx` to review the prepared data.
 
-3. **Load the Tableau Dashboard:**
+2. **Load the Tableau Dashboard:**
    - Open `London Bikes Dashboard.twb` using **Tableau Desktop**.
 
-4. **Interact with the Dashboard:**
+3. **Interact with the Dashboard:**
    - Use filters to explore different aspects of the data.
    - Analyze trends and patterns in rental usage.
 
