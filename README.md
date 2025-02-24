@@ -6,15 +6,13 @@ This project analyzes London bike rental data to explore usage patterns, the imp
 
 ## Dataset
 
-- **Raw Data:** `london_bikes_raw.csv` – Original unprocessed data downloaded programmatically from Kaggle.
+- **Raw Data:** `london_bikes_raw.csv` – Original unprocessed data downloaded from Kaggle.
 - **Cleaned Data:** `london_bikes_final.xlsx` – Cleaned and structured data used for analysis.
 
 ## Tools & Technologies
 
 - **Python (Jupyter Notebook)**
   - **Data Gathering and Preparation**
-    - **Data Collection:**
-      - Used the `kaggle` API to download the dataset programmatically.
       - Extracted the CSV file from the downloaded zip file using the `zipfile` library.
     - **Data Exploration and Manipulation with `pandas`:**
       - Loaded the CSV data into a pandas DataFrame.
