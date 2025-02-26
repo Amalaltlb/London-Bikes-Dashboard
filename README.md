@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on developing a dynamic dashboard to uncover usage patterns, the impact of weather conditions, and seasonal trends using **Tableau**. It involves data exploration with Python.
+This project focuses on developing a dynamic dashboard using **Tableau** to uncover usage patterns, the impact of weather conditions, and seasonal trends. It involves data exploration with Python.
 
 ## Dataset
 
