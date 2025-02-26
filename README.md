@@ -23,17 +23,6 @@ This project involves developing a dynamic dashboard using **Tableau** to analyz
   - **Dashboard Creation**
     - Built an interactive dashboard to display key metrics and trends.
     - Applied formatting techniques to enhance visual appeal.
-
-## Key Insights & Outcomes
-
-- **Peak Sharing Times**
-  - Identified peak usage periods aligned with commuting hours and weekends.
-- **Weather Impact**
-  - Discovered correlations between weather conditions and bike sharing trends.
-- **Seasonal Trends**
-  - Observed higher sharing counts during warmer months.
-- **Interactive Dashboard**
-  - Developed for enhanced operational planning and decision-making.
  
 ## How to Use
 
