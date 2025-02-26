@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project involves developing a dynamic dashboard using **Tableau** to analyze the London bikes rides dataset. It uncovers usage patterns through visualizations of total bike rides and moving averages over time, while also examining the impact of weather conditions with a heat map comparing temperature and wind speed against bike usage by hour. This comprehensive approach allows for insights into seasonal trends and factors influencing bike usage.
+This project involves developing a dynamic dashboard using **Tableau** to analyze the London bikes dataset. It uncovers usage patterns through visualizations of total bike rides and moving averages over time, while also examining the impact of weather conditions with a heat map comparing temperature and wind speed against bike usage by hour. This comprehensive approach allows for insights into seasonal trends and factors influencing bike usage.
 
 ## Dataset
 
@@ -18,7 +18,7 @@ This project involves developing a dynamic dashboard using **Tableau** to analyz
 
 - **Tableau**
   - **Data Analysis and Visualization**
-    - Created interactive visualizations to illustrate bike-rides patterns.
+    - Created interactive visualizations to illustrate bike ride patterns.
     - Implemented filters and interactive elements for deeper insights.
   - **Dashboard Creation**
     - Built an interactive dashboard to display key metrics and trends.
@@ -34,7 +34,7 @@ This project involves developing a dynamic dashboard using **Tableau** to analyz
 
 3. **Interact with the Dashboard:**
    - Use filters to explore different aspects of the data.
-   - Analyze trends and patterns in rental usage.
+   - Explore trends and patterns in bike usage over time.
 
 ## Acknowledgments
 
