@@ -18,7 +18,7 @@ This project involves developing a dynamic dashboard using **Tableau** to analyz
 
 - **Tableau**
   - **Data Analysis and Visualization**
-    - Created interactive visualizations to depict bike sharing patterns.
+    - Created interactive visualizations to illustrate bike-rides patterns.
     - Implemented filters and interactive elements for deeper insights.
   - **Dashboard Creation**
     - Built an interactive dashboard to display key metrics and trends.
