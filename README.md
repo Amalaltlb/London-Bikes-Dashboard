@@ -1,4 +1,4 @@
-# London Bike Dashboard
+# London Bikes Dashboard
 
 ## Overview
 This project focuses on developing a dynamic dashboard using **Tableau** to analyze the **London bikes dataset**. The dashboard visualizes bike ride patterns, moving averages, and the impact of weather conditions (such as temperature and wind speed) on bike usage. It provides actionable insights into seasonal trends and factors influencing bike usage.
