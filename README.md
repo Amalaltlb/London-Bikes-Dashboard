@@ -50,9 +50,6 @@ This project was inspired by Mo Chen, a data analyst in the financial sector. Hi
 ## Conclusion
 This project demonstrates the ability to create an interactive dashboard using Tableau to visualize trends in bike usage, highlighting the relationship between weather and bike rides. The dashboard offers insights that can assist in optimizing bike availability and usage patterns.
 
-## License
-MIT License
-
 
 
 
