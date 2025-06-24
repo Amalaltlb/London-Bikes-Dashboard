@@ -38,7 +38,7 @@ The dashboard is structured into three main analysis areas:
 
 ## 🖼 Dashboard Preview
 
-<img src="https://github.com/your-username/your-repo-name/raw/main/london_bikes_dashboard.png" width="700"/>
+<img src="london_bikes_dashboard.png" width="700"/>
 
 ---
 
