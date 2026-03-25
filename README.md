@@ -81,12 +81,6 @@ Tableau • Python (pandas) • Jupyter Notebook • Excel
 
 ---
 
-## 🙏 Acknowledgments
-
-Inspired by Mo Chen's tutorial: *"Data Analyst Portfolio Project | Build an Awesome Tableau Dashboard Step by Step"* on YouTube
-
----
-
 ## ✅ Conclusion
 
 This project demonstrates the ability to create an insightful Tableau dashboard that visualizes bike usage trends and their relationship to weather conditions. It empowers stakeholders to make informed decisions about urban cycling infrastructure, service improvements, and user behavior analysis.
