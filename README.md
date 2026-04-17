@@ -1,4 +1,4 @@
-# 🚲 London Bikes Dashboard – Tableau
+# 🚲 London Bikes Dashboard — Tableau
 
 This project demonstrates the creation of an interactive Tableau dashboard to analyze London bike usage patterns. It highlights trends over time, the effect of weather conditions on bike usage, and seasonal behavior. The dashboard helps stakeholders make informed decisions to improve urban cycling infrastructure and optimize bike-sharing services.
 
