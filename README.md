@@ -10,7 +10,7 @@ The dashboard is structured into three main analysis areas:
 
 1. **Bike Usage Insights**
 
-   * Visualized total bike rides across hours, days, and seasons
+   * visualised total bike rides over time using a user-controlled moving average.
    * Included moving averages to reveal long-term trends
 
 2. **Weather Impact**
@@ -22,9 +22,14 @@ The dashboard is structured into three main analysis areas:
 
    * Tableau filters enable dynamic exploration of:
 
-     * Hourly and daily patterns
      * Temperature and wind speed conditions
      * Seasonal usage fluctuations
+
+---
+
+## 🖼 Dashboard Preview
+
+<img src="london_bikes_dashboard.png" width="700"/>
 
 ---
 
@@ -33,12 +38,6 @@ The dashboard is structured into three main analysis areas:
 * Bike usage peaks during morning and evening commute hours
 * Usage drops significantly in cold or high-wind conditions
 * Warmer temperatures generally increase bike activity, especially midday
-
----
-
-## 🖼 Dashboard Preview
-
-<img src="london_bikes_dashboard.png" width="700"/>
 
 ---
 
