@@ -64,24 +64,11 @@ Tableau • Python (pandas) • Jupyter Notebook • Excel
 
 ---
 
-## 👥 Target Users
-
-* **City Planners & Transport Authorities**: Understand demand and plan infrastructure
-* **Bike-Sharing Providers**: Optimize bike availability and service based on usage trends
-* **Researchers & Enthusiasts**: Analyze weather effects and cycling patterns for insights
-
----
-
 ## 🗂 How to Use
 
 1. Open `london_bikes_final.xlsx` to review the cleaned dataset
 2. Load `London Bikes Dashboard.twb` in Tableau Desktop
 3. Use filters to explore bike usage by time and weather conditions
 
----
-
-## ✅ Conclusion
-
-This project demonstrates the ability to create an insightful Tableau dashboard that visualizes bike usage trends and their relationship to weather conditions. It empowers stakeholders to make informed decisions about urban cycling infrastructure, service improvements, and user behavior analysis.
 
 
